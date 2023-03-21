@@ -1,0 +1,27 @@
+table{
+    border-collapse:collapse;
+    width: 50%;
+    text-align: center;
+    border: solid 1px black;
+    margin: auto;
+}
+td,th{
+    border: solid 1px black;
+}
+
+tr{
+   height: 40px;
+}
+
+thead{
+    background-color: rgb(228, 216, 216);
+    color: black;
+}
+
+tfoot{
+    background-color:rgb(238, 220, 220);
+}
+
+tr:hover{
+    background-color: greenyellow;
+}
